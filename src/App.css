@@ -41,6 +41,9 @@
 .card{
   max-width: 50%;
   padding: 70px;
+  background-color: rgb(172, 253, 253);
+  border: solid black 5px;
+  border-radius: 10px;
 }
 
 
